@@ -18,3 +18,6 @@ Create database using PostgreSQL. Run seed.py to create database: Python seed.py
 To run the local termial type this in Terminal: flask run
 
 **Copy localhost URL** to Chrome or Safari or other Browser to test the app.
+
+## Heroku app link:
+https://cliff-stock-search-app.herokuapp.com/
