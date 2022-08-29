@@ -10,4 +10,8 @@ Function:
   In "Profile" section, users could find their saved stocks.
   Users have to register an account and log in to save stocks. As tourist, they do not have the permission to save stocks. All passwords have been hashed safely in database.
   
-  Tips: Please download required libararies to test the application.
+App Set up: 
+Please download required libararies from requirments.txt. You could type this in Terminal: pip install -r requirements.txt
+Create database using PostgreSQL. Run seed.py to create database: Python seed.py
+To run the local termial type this in Terminal: flask run
+Copy localhost URL to Chrome or Safari or other Browser to test the app.
