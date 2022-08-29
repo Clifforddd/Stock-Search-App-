@@ -21,3 +21,6 @@ To run the local termial type this in Terminal: flask run
 
 ## Heroku app link:
 https://cliff-stock-search-app.herokuapp.com/
+
+## Tool used in this App:
+Main language uses in this app is **Python** as back-end tool. Also, include **FLASK**, SQLAlchemy, Jinja, Wtforms, RESTFUL API structure, HTML, CSS, Heroku.
