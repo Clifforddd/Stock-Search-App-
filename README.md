@@ -3,6 +3,9 @@
 ### API name: yfinance
 ### API Link: https://pypi.org/project/yfinance/
 
+## Heroku app link:
+https://cliff-stock-search-app.herokuapp.com/
+
 ## Function:
   Users could search stocks in this app, and register account save their favorite stocks in their profile.
   
@@ -18,9 +21,6 @@ Create database using PostgreSQL. Run seed.py to create database: Python seed.py
 To run the local termial type this in Terminal: flask run
 
 **Copy localhost URL** to Chrome or Safari or other Browser to test the app.
-
-## Heroku app link:
-https://cliff-stock-search-app.herokuapp.com/
 
 ## Tool used in this App:
 Main language uses in this app is **Python** as back-end tool. Also, include **FLASK**, SQLAlchemy, Jinja, Wtforms, RESTFUL API structure, HTML, CSS, Heroku.
